@@ -1,6 +1,6 @@
 # MasterApp
 The master app helps to perform following steps: \
-1.sets up NSD Manager \ 
+1.sets up NSD Manager\ 
 2.sets up DiscoveryListener \
 3.sets up ResolveListener \
 4.Resolve Service if found \
